@@ -8,10 +8,10 @@
  
  
 <div>
-<a href="https://github.com/guilhermepereiradev/github-readme-stats">
+<a href="https://github.com/guilhermepereiradev/guilhermepereiradev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&theme=github_dark&show_icons=true" />
 </a>
-<a href="https://github.com/guilhermepereiradev/convoychat">
+<a href="https://github.com/guilhermepereiradev/guilhermepereiradev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev" />
 </a>
 </div>
