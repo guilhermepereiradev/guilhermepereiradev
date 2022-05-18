@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&theme=github_dark&show_icons=true" />
 </a>
 <a href="https://github.com/guilhermepereiradev/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev" />
 </a>
 </div>
  
