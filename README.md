@@ -1,15 +1,7 @@
-### Bem vindo ao meu GitHub! 👋
 <hr>
 
-## Sobre
-<p>😎Meu nome é <strong>Guilherme Pereira</strong> e tenho 18 anos.</p>
-<p>🎓Graduando em Ciência da Computação.</p>
-<p>💻📚Estudante Full Stack Development.</p>
-
-## Contato
-<div>
-   <a href="mailto: guilhermepereira1609@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="mailto: guilhermepereira1609@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+## Bem vindo ao meu GitHub! 👋
+<p>Meu nome é Guilherme Pereira e tenho 18 anos, sou estudante de Desenvolvimento Full Stack e graduando em Ciência da Computação.</p>
 </div>
 <hr>
 
@@ -35,3 +27,9 @@
 </div>
  <hr>
  
+## Contato
+<div>
+   <a href="mailto: guilhermepereira1609@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="mailto: guilhermepereira1609@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<hr>
