@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&theme=github_dark&show_icons=true" />
 </a>
 <a href="https://github.com/guilhermepereiradev/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermepereiradev&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev)" />
 </a>
 </div>
  
@@ -21,7 +21,7 @@
  
 <div>
    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&theme=github_dark&show_icons=true"/>
- <img heigth="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev)](https://github.com/guilhermepereiradev/github-readme-stats)"/>
+ <img heigth="180em" src="(](https://github.com/guilhermepereiradev/github-readme-stats)"/>
 </div>
 
  [![Top Langs]
