@@ -6,4 +6,4 @@
 <p>Contacte-me no email: guilhermepereira1609@hotmail.com
 <p>Linkedin: <a href="https://www.linkedin.com/in/guilhermepereiradev/">guilhermepereiradev</a>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?guilhermepereiradev=anuraghazra&theme=dark&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
