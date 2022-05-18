@@ -6,12 +6,6 @@
 <p>Contacte-me no email: guilhermepereira1609@hotmail.com
 <p>Linkedin: <a href="https://www.linkedin.com/in/guilhermepereiradev/">guilhermepereiradev</a>
  
-
-<div align="center">
-  <a href="https://github.com/guilhermepereiradev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guilhermepereiradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermepereiradev&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 <div align="center">
   <a href="https://github.com/guilhermepereiradev">
