@@ -1,7 +1,7 @@
 <hr>
 
 ## Bem vindo ao meu GitHub! 👋
-<p>Meu nome é Guilherme Pereira e tenho 18 anos. Sou estudante de Desenvolvimento Full Stack e graduando em Ciência da
+<p>Meu nome é Guilherme Pereira e tenho 18 anos. Sou desenvolvedor Full Stack e graduando em Ciência da
     Computação.</p>
 </div>
 <hr>
