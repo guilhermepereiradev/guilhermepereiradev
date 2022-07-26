@@ -38,3 +38,9 @@
     <a href="https://www.linkedin.com/in/guilhermepereiradev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <hr>
+
+<div align="center">
+    <a href="https://github.com/guilhermepereiradev">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=guilhermep49"/>
+    </a>
+</div>
