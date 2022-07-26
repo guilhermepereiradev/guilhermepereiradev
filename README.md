@@ -8,9 +8,8 @@
 
 ## Status
 <div align="center">
-    <a href="https://github.com/guilhermepereiradev">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"/>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev&layout=compact&theme=github_dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev&layout=compact&theme=github_dark"/>
 </div>
 <hr>
 
@@ -40,7 +39,5 @@
 <hr>
 
 <div align="center">
-    <a href="https://github.com/guilhermepereiradev">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=guilhermep49"/>
-    </a>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=guilhermep49"/>
 </div>
