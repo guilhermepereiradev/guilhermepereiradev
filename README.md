@@ -9,8 +9,8 @@
 ## Status
 <div align="center">
     <a href="https://github.com/guilhermepereiradev">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&count_private=true&show_icons=true&theme=github_dark"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev&layout=compact&theme=github_dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&show_icons=true&theme=github_dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev&layout=compact"/>
 </div>
 <hr>
 
