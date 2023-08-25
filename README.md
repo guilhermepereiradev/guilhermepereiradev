@@ -9,8 +9,8 @@
 ## Status
 <div align="center">
     <a href="https://github.com/guilhermepereiradev">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&show_icons=true&theme=github_dark"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev&layout=compact"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermepereiradev&count_private=true&show_icons=true&theme=github_dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepereiradev&layout=compact&theme=github_dark"/>
 </div>
 <hr>
 
@@ -26,7 +26,7 @@
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<!--     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> -->
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 
