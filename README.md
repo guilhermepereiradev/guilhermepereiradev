@@ -1,7 +1,7 @@
 <hr>
 
 ## Bem vindo ao meu GitHub! 👋
-<p>Meu nome é Guilherme Pereira e tenho 20 anos. Sou desenvolvedor Back-End em @<a href="https://www.senior.com.br/">Senior Sistemas</a> e graduando em Ciência da
+<p>Meu nome é Guilherme Pereira e tenho 21 anos. Sou desenvolvedor FullStack em @<a href="https://senaisolucoesdigitais.com.br/">SENAI Soluções Digitais</a> e graduando em Ciência da
     Computação pelo @<a href="https://www.una.br/">UNA</a> .</p>
 </div>
 <hr>
